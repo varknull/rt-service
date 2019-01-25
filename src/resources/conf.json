@@ -1,0 +1,10 @@
+{
+  "http.port" : 8090,
+  "redis.host" : "localhost",
+  "redis.port" : 6379,
+  "couchbase.host" : "localhost",
+  "couchbase.bucket" : "default",
+  "couchbase.bucket.quota" : 2048,
+  "couchbase.user" : "admin",
+  "couchbase.password" : "administrator"
+}
